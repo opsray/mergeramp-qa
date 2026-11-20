@@ -1,0 +1,1 @@
+QA change 19 (H5 Optional mode, payment failing)
